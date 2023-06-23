@@ -1,0 +1,43 @@
+.secondheader {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 24px;
+    margin-bottom: 20px;
+    
+}
+
+.header {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 40px;
+    margin: 40px;
+}
+
+
+.wrapper {
+    width: 1080px;
+    margin: 0 auto;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding: 20px;
+}
+
+.menu {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    font-size: 24px;
+    margin: 20px;
+}
+
+.content {
+    padding: 10px;
+}
+
+.tableheader{
+    font-weight: bold;
+}
+
+tr:nth-child(even){
+background-color: gainsboro
+}
